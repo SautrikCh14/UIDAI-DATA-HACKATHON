@@ -73,7 +73,6 @@ UIDAI_DATA_HACKATHON/
 │       ├── anomaly_detection.csv
 │       └── summary_statistics.csv
 │
-├── report/
 │
 └── requirements.txt
 │
